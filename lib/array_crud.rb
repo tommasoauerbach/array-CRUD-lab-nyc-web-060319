@@ -8,9 +8,9 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  artists_hiphop.insert(4,"madvillan")
-
+  artists_hiphop.insert(4, "madvillan")
 end
+
 
 def add_element_to_start_of_array(array, element)
 
