@@ -8,7 +8,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  artists_hiphop.push('madvillan')
+  artists_hiphop.push(4, "madvillan")
   
 end
 
