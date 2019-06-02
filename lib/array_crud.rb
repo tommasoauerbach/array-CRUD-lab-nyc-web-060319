@@ -7,8 +7,10 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
+  artists_hiphop = ["Big", "2pac", "wutang", "nas"]
+end
+
   artists_hiphop << "madvillan"
-  puts artists_hiphop [4]
 end
 
 
